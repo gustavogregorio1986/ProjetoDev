@@ -1,0 +1,17 @@
+C:\ProjetoDev\ProjetoDev\ProjetoDev.Servico\bin\Debug\net6.0\ProjetoDev.Servico.deps.json
+C:\ProjetoDev\ProjetoDev\ProjetoDev.Servico\bin\Debug\net6.0\ProjetoDev.Servico.dll
+C:\ProjetoDev\ProjetoDev\ProjetoDev.Servico\bin\Debug\net6.0\ProjetoDev.Servico.pdb
+C:\ProjetoDev\ProjetoDev\ProjetoDev.Servico\bin\Debug\net6.0\ProjetoDev.Data.dll
+C:\ProjetoDev\ProjetoDev\ProjetoDev.Servico\bin\Debug\net6.0\ProjetoDev.Dominio.dll
+C:\ProjetoDev\ProjetoDev\ProjetoDev.Servico\bin\Debug\net6.0\ProjetoDev.Data.pdb
+C:\ProjetoDev\ProjetoDev\ProjetoDev.Servico\bin\Debug\net6.0\ProjetoDev.Dominio.pdb
+C:\ProjetoDev\ProjetoDev\ProjetoDev.Servico\obj\Debug\net6.0\ProjetoDev.Servico.csproj.AssemblyReference.cache
+C:\ProjetoDev\ProjetoDev\ProjetoDev.Servico\obj\Debug\net6.0\ProjetoDev.Servico.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetoDev\ProjetoDev\ProjetoDev.Servico\obj\Debug\net6.0\ProjetoDev.Servico.AssemblyInfoInputs.cache
+C:\ProjetoDev\ProjetoDev\ProjetoDev.Servico\obj\Debug\net6.0\ProjetoDev.Servico.AssemblyInfo.cs
+C:\ProjetoDev\ProjetoDev\ProjetoDev.Servico\obj\Debug\net6.0\ProjetoDev.Servico.csproj.CoreCompileInputs.cache
+C:\ProjetoDev\ProjetoDev\ProjetoDev.Servico\obj\Debug\net6.0\ProjetoD.8F6F1F74.Up2Date
+C:\ProjetoDev\ProjetoDev\ProjetoDev.Servico\obj\Debug\net6.0\ProjetoDev.Servico.dll
+C:\ProjetoDev\ProjetoDev\ProjetoDev.Servico\obj\Debug\net6.0\refint\ProjetoDev.Servico.dll
+C:\ProjetoDev\ProjetoDev\ProjetoDev.Servico\obj\Debug\net6.0\ProjetoDev.Servico.pdb
+C:\ProjetoDev\ProjetoDev\ProjetoDev.Servico\obj\Debug\net6.0\ref\ProjetoDev.Servico.dll

@@ -1,0 +1,11 @@
+C:\ProjetoDev\ProjetoDev\ProjetoDev.Dominio\bin\Debug\net6.0\ProjetoDev.Dominio.deps.json
+C:\ProjetoDev\ProjetoDev\ProjetoDev.Dominio\bin\Debug\net6.0\ProjetoDev.Dominio.dll
+C:\ProjetoDev\ProjetoDev\ProjetoDev.Dominio\bin\Debug\net6.0\ProjetoDev.Dominio.pdb
+C:\ProjetoDev\ProjetoDev\ProjetoDev.Dominio\obj\Debug\net6.0\ProjetoDev.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetoDev\ProjetoDev\ProjetoDev.Dominio\obj\Debug\net6.0\ProjetoDev.Dominio.AssemblyInfoInputs.cache
+C:\ProjetoDev\ProjetoDev\ProjetoDev.Dominio\obj\Debug\net6.0\ProjetoDev.Dominio.AssemblyInfo.cs
+C:\ProjetoDev\ProjetoDev\ProjetoDev.Dominio\obj\Debug\net6.0\ProjetoDev.Dominio.csproj.CoreCompileInputs.cache
+C:\ProjetoDev\ProjetoDev\ProjetoDev.Dominio\obj\Debug\net6.0\ProjetoDev.Dominio.dll
+C:\ProjetoDev\ProjetoDev\ProjetoDev.Dominio\obj\Debug\net6.0\refint\ProjetoDev.Dominio.dll
+C:\ProjetoDev\ProjetoDev\ProjetoDev.Dominio\obj\Debug\net6.0\ProjetoDev.Dominio.pdb
+C:\ProjetoDev\ProjetoDev\ProjetoDev.Dominio\obj\Debug\net6.0\ref\ProjetoDev.Dominio.dll

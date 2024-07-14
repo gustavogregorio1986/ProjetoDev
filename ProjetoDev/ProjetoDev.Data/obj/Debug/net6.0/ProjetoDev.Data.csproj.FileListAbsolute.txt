@@ -1,0 +1,17 @@
+C:\ProjetoDev\ProjetoDev\ProjetoDev.Data\bin\Debug\net6.0\ProjetoDev.Data.deps.json
+C:\ProjetoDev\ProjetoDev\ProjetoDev.Data\bin\Debug\net6.0\ProjetoDev.Data.runtimeconfig.json
+C:\ProjetoDev\ProjetoDev\ProjetoDev.Data\bin\Debug\net6.0\ProjetoDev.Data.dll
+C:\ProjetoDev\ProjetoDev\ProjetoDev.Data\bin\Debug\net6.0\ProjetoDev.Data.pdb
+C:\ProjetoDev\ProjetoDev\ProjetoDev.Data\bin\Debug\net6.0\ProjetoDev.Dominio.dll
+C:\ProjetoDev\ProjetoDev\ProjetoDev.Data\bin\Debug\net6.0\ProjetoDev.Dominio.pdb
+C:\ProjetoDev\ProjetoDev\ProjetoDev.Data\obj\Debug\net6.0\ProjetoDev.Data.csproj.AssemblyReference.cache
+C:\ProjetoDev\ProjetoDev\ProjetoDev.Data\obj\Debug\net6.0\ProjetoDev.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetoDev\ProjetoDev\ProjetoDev.Data\obj\Debug\net6.0\ProjetoDev.Data.AssemblyInfoInputs.cache
+C:\ProjetoDev\ProjetoDev\ProjetoDev.Data\obj\Debug\net6.0\ProjetoDev.Data.AssemblyInfo.cs
+C:\ProjetoDev\ProjetoDev\ProjetoDev.Data\obj\Debug\net6.0\ProjetoDev.Data.csproj.CoreCompileInputs.cache
+C:\ProjetoDev\ProjetoDev\ProjetoDev.Data\obj\Debug\net6.0\ProjetoD.A4F8DA84.Up2Date
+C:\ProjetoDev\ProjetoDev\ProjetoDev.Data\obj\Debug\net6.0\ProjetoDev.Data.dll
+C:\ProjetoDev\ProjetoDev\ProjetoDev.Data\obj\Debug\net6.0\refint\ProjetoDev.Data.dll
+C:\ProjetoDev\ProjetoDev\ProjetoDev.Data\obj\Debug\net6.0\ProjetoDev.Data.pdb
+C:\ProjetoDev\ProjetoDev\ProjetoDev.Data\obj\Debug\net6.0\ProjetoDev.Data.genruntimeconfig.cache
+C:\ProjetoDev\ProjetoDev\ProjetoDev.Data\obj\Debug\net6.0\ref\ProjetoDev.Data.dll

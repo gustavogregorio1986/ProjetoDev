@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "4Hy2p77SU6rrgknAoaKmaj6zk41TZ+jgTdMCBWWw9lDvvR9hsmERX+UOdCRJpNjRr3vc38lHlgmydAu1xI/+pw==",
+  "success": true,
+  "projectFilePath": "C:\\ProjetoDev\\ProjetoDev\\ProjetoDev.Dominio\\ProjetoDev.Dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gustavo Gregório\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.31\\microsoft.windowsdesktop.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\Gustavo Gregório\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.31\\microsoft.netcore.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\Gustavo Gregório\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.31\\microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
